@@ -2,6 +2,7 @@
 layout: page
 title: Prouttest
 permalink: /pwet/
+redirect_from: "/prout"
 ---
 
 
